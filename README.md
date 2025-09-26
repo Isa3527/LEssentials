@@ -24,12 +24,6 @@ Currently implemented or in progress:
   - Config-driven settings
   - Simple permissions integration
 
-- **Future Plans**
-  - Economy system support
-  - Warp and region management
-  - Improved chat formatting
-  - More admin and player utilities
-
 ---
 
 ## 🛠️ Status
