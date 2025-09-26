@@ -1,7 +1,7 @@
 # LEssentials
 
 [![GitHub release](https://img.shields.io/github/v/release/isa3527/LEssentials?style=for-the-badge)](../../releases)
-[![License](https://img.shields.io/github/license/isa3527/LEssentials?style=for-the-badge)](LICENSE)
+[![License: Custom](https://img.shields.io/badge/License-Custom-blue?style=for-the-badge)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/isa3527/LEssentials?style=for-the-badge)](../../issues)
 [![Last Commit](https://img.shields.io/github/last-commit/isa3527/LEssentials?style=for-the-badge)](../../commits/main)
 
